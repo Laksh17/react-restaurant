@@ -1,0 +1,13 @@
+{
+  "reservations": [
+    {
+      "name": "Laksh",
+      "phone": "8217718952",
+      "email": "ssglaksh17@gmail.com",
+      "headCount": "2",
+      "timing": "1800-1900",
+      "seat": "Center",
+      "id": 1
+    }
+  ]
+}

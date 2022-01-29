@@ -1,0 +1,76 @@
+{
+    "menu": [
+        {
+            "name": "Breakfast Platter",
+            "price": "300",
+            "id": 1,
+            "image": "./breakfast-platter.jpg"
+        },
+        {
+            "name": "Chocolate Brownie",
+            "price": "170",
+            "id": 2,
+            "image": "./brownie.jpg"
+        },
+        {
+            "name": "Burger-n-Fries",
+            "price": "270",
+            "id": 3,
+            "image": "./burger-fries.jpg"
+        },
+        {
+            "name": "Drippy Pancakes",
+            "price": "330",
+            "id": 4,
+            "image": "./drip-pancakes.jpg"
+        },
+        {
+            "name": "Penne Pasta",
+            "price": "220",
+            "id": 5,
+            "image": "./penne-pasta.jpg"
+        },
+        {
+            "name": "Ramen Noodles",
+            "price": "250",
+            "id": 6,
+            "image": "./ramen-noodles.jpg"
+        },
+        {
+            "name": "Sashim Prawns",
+            "price": "280",
+            "id": 7,
+            "image": "./sashim-prawns.jpg"
+        },
+        {
+            "name": "Stew (Non-Veg)",
+            "price": "270",
+            "id": 8,
+            "image": "./stew-non-veg.jpg"
+        },
+        {
+            "name": "Strawberry Pie",
+            "price": "230",
+            "id": 9,
+            "image": "./strawberry-pie.jpg"
+        },
+        {
+            "name": "Mini-Biryani",
+            "price": "200",
+            "id": 10,
+            "image": "./mini-biryani.jpg"
+        },
+        {
+            "name": "Fried Macril",
+            "price": "170",
+            "id": 11,
+            "image": "./fish-fry.jpg"
+        },
+        {
+            "name": "Tandoori Chicken",
+            "price": "230",
+            "id": 12,
+            "image": "./tandoori-chicken.jpg"
+        }
+    ]
+}
